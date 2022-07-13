@@ -1,2 +1,3 @@
-This file contains string related functions
+This file contains string related functions.
+
 
